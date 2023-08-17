@@ -1,4 +1,4 @@
-Datation GPS;Pump-Cold W;Dewar-Cover;Tmp Air Ext ;Temp Air Int ;Miroir Siderost;Med Bench; Detect Mount; Upp Tk ;Low Tk; Frame EL; Frame CE; Rot Angle; Longi; Latitude; Altitude; DV Az; DV EL; DV Psi; DV Asc D; DV Dec; DV Theta;
+Datation GPS;Pump-Cold W;Dewar-Cover;Tmp Air Ext ;Temp Air Int ;Miroir Siderost;Med Bench; Detect Mount; Upp Tk ;Low Tk; Frame EL; Frame CE; Rot Angle; Longi; Latitude; Altitude; DV Az; DV EL; DV Psi; DV Asc; DV Dec; DV Theta;
 24/06/23 04:02:39;17.3;17.8;17.4;17.2;19.7;1242;1242.2;1242.6;1242.7;-1.14441E-05;0;-122.994;-118.124;34.136;272;104.897;79.0814;-121.697;226.893;30.7102;-53.2057;
 24/06/23 04:03:39;17.3;17.8;17.4;17.2;19.7;1242;1242.2;1242.6;1242.7;-1.14441E-05;0;-122.994;-118.124;34.136;272;104.883;79.0814;-121.713;227.147;30.7126;-53.2088;
 24/06/23 04:04:39;17.3;17.8;17.4;17.2;19.6;1242;1242.2;1242.6;1242.7;-3.62396E-05;0;-122.994;-118.124;34.136;272;104.897;79.0815;-121.701;227.394;30.7102;-53.2101;
